@@ -17,7 +17,7 @@ The website is deployed to Heroku. The links will be bellow.
 ## Sample images from site
 
 
-![Note home]('https://github.com/luistorano/note-taker/blob/main/public/assets/img/note-home.png')
+![Note home](https://github.com/luistorano/note-taker/blob/main/public/assets/img/note-home.png)
 
 
-![Note Taker]('https://github.com/luistorano/note-taker/blob/main/public/assets/img/note-taker.png')
+![Note Taker](https://github.com/luistorano/note-taker/blob/main/public/assets/img/note-taker.png)
